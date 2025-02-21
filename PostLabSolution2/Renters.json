@@ -1,0 +1,26 @@
+[
+    {
+        "Address": "123 Elm St",
+        "City": "Springfield",
+        "Email": "john.doe@example.com",
+        "FirstName": "John",
+        "LastName": "Doe",
+        "MiddleInitial": "A",
+        "PhoneNumber": "555-1234",
+        "PostalCode": "62704",
+        "RenterID": 7,
+        "State": "IL"
+    },
+    {
+        "Address": "456 Oak Ave",
+        "City": "Greenfield",
+        "Email": "jane.smith@example.com",
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "MiddleInitial": "B",
+        "PhoneNumber": "555-5678",
+        "PostalCode": "53220",
+        "RenterID": 8,
+        "State": "WI"
+    }
+]

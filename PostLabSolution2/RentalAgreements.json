@@ -1,0 +1,16 @@
+[
+    {
+        "AgreementID": 3,
+        "EndDate": "2025-06-15",
+        "RenterID": 7,
+        "StartDate": "2025-06-01",
+        "WeeklyRentalAmount": 1200.0
+    },
+    {
+        "AgreementID": 4,
+        "EndDate": "2025-07-24",
+        "RenterID": 8,
+        "StartDate": "2025-07-10",
+        "WeeklyRentalAmount": 1500.0
+    }
+]

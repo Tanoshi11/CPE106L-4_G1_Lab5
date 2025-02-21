@@ -1,0 +1,30 @@
+[
+    {
+        "Address": "789 Lakeview Dr",
+        "BaseWeeklyRate": 1200.0,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "City": "Madison",
+        "CondoLocationID": 1,
+        "CondoLocationName": "Lakeside Retreat",
+        "CondoUnitNumber": "Unit 101",
+        "MaxPersons": 4,
+        "PostalCode": "53703",
+        "SquareFootage": 900,
+        "State": "WI"
+    },
+    {
+        "Address": "321 Hilltop Rd",
+        "BaseWeeklyRate": 1500.0,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "City": "Boulder",
+        "CondoLocationID": 2,
+        "CondoLocationName": "Mountain View",
+        "CondoUnitNumber": "Unit 202",
+        "MaxPersons": 6,
+        "PostalCode": "80302",
+        "SquareFootage": 1100,
+        "State": "CO"
+    }
+]
